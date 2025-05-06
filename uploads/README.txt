@@ -1,0 +1,1 @@
+Arquivo para manter pasta vazia no git
